@@ -1,0 +1,53 @@
+.dp{
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-color: #EEEEEE;
+}
+.top{
+    text-align: center;
+}
+.project{
+    text-align: center;
+}
+#id{
+    text-align: justify;
+}
+.p{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight:100;
+    font-size:larger;
+    display: flex;
+    justify-content: center;
+}
+.top{
+    background-color: #A3C9AA;
+    
+}
+#body{
+    background-color: #C68484;
+    
+}
+#footer{
+    margin-top: auto;
+    background-color: #EEEEEE;
+    display: flexbox;
+    
+    
+}
+#skill{
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight:100;
+    font-size:larger;
+}
+button{
+    
+    background-color:blue;
+    color: #EEEEEE;
+}
